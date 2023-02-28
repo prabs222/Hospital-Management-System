@@ -66,6 +66,7 @@ POSTMAN for API testing.
 ## Features
 
 - APIs for the complete management of hospital services.
+- Separate modules for receptionist, doctors and patients for the overall working of the hospital.
 
 
 ## Support++
