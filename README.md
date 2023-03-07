@@ -1,8 +1,6 @@
 # Hospital-Management-System
 A useful software for managing and operating day to day activities of a hospital in the most effective way.
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<br>
 
 ## Setup Instructions
 
