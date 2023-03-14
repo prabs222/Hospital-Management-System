@@ -61,6 +61,8 @@ Quit the server with CONTROL-C.
 
 POSTMAN for API testing.
 
+Database - MySQL
+
 ## Features
 
 - APIs for the complete management of hospital services.
