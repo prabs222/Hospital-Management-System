@@ -29,11 +29,11 @@ Change directory to the folder
 ```bash
   cd folder-where-you-cloned-the-repo
 ```
-Install all the requirements with
 
-```bash
-  pip3 install -r requirements.txt
-```
+
+
+
+
 Apply all the migrations with 
 
 ```bash
